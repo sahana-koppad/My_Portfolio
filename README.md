@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/sahana-koppad/My_Portfolio).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="C:\Users\Chetan\Desktop\Downloads\web-dev-projects-main\web-dev-projects-main\personal-portfolio\src\assets\img\Portfolio.png
-">
+
 
 Built using:
 
